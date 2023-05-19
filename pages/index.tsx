@@ -25,7 +25,7 @@ const Home: NextPage<Props> = ({ data }) => {
         </h3>
       </div>
       <p>
-        Repository: https://github.com/tengfone-govtech/nus-container-course
+        Repository: <a href='https://github.com/tengfone-govtech/nus-container-course'>https://github.com/tengfone-govtech/nus-container-course</a>
       </p>
     </div>
   )
